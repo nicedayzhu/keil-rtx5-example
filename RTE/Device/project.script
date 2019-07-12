@@ -1,0 +1,4 @@
+load STM32F407ZGTx 
+project name STCubeGenerated 
+project toolchain "MDK-ARM V5" 
+project path "D:\STM32_RTX_Codes\keil-rtx5-example\RTE\Device\STM32F407ZGTx\" 
